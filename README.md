@@ -1,4 +1,4 @@
-# python-can-zlg
+# python-can-slcanfd
 用于SLCAN对canfd的支持
 
 Support for slcanfd for Python-can
